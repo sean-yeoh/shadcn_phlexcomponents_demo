@@ -1,24 +1,14 @@
-# README
+# shadcn_phlexcomponents_demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Dependencies
 
-Things you may want to cover:
+- Ruby (~> 3.4)
+- Yarn (~> 1.22)
 
-* Ruby version
+## Installation
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+git clone git@github.com:sean-yeoh/shadcn_phlexcomponents_demo.git
+cd shadcn_phlexcomponents_demo
+bin/setup
+```
